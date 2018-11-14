@@ -1,4 +1,4 @@
-# React-JS-Task
+# react-js-challenge
 
 This project was bootstrapped with **Create React App**.
 
