@@ -9,7 +9,7 @@ This project was bootstrapped with **Create React App**.
 
 **Versions**: node 8.11.1, npm 6.1.0
 
-Run npm commands from **React-JS-Task** folder
+Run npm commands from **react-js-challenge** folder
 
 1. Install dependencies: **npm install**
 
