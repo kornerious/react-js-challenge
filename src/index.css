@@ -1,0 +1,35 @@
+.card-image {
+    width: 120px;
+    height: 120px;
+    min-width: 120px;
+    min-height: 120px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.edit-card {
+    position: absolute;
+    right: 40px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.delete-card {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: red;
+    cursor: pointer;
+}
+
+.info-block p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.error {
+    position: absolute;
+    color: red;
+    font-size: 11px;
+}
