@@ -21,10 +21,10 @@ Run npm commands from **React-JS-Task** folder
 
 Tools used:
 >
-create-react-app
-react
-cerebral state managment
-UIKit for interface
+create-react-app, 
+react, 
+cerebral state managment, 
+UIKit for interface,
 eslint linter
 
 **Also implemented:**
